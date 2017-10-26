@@ -1,5 +1,5 @@
 .hexagon {
-  width: 300px; /*636.94*/ /*setting up the highest value to hegith will result in honeycomb design*/
+  width: 300px; /*636.94*/ /*setting up the highest value to height will result in honeycomb design*/
   height: 600px; /*735.47*/
   background: #CD5360; /*Salmon colour, remove visbility hidden when needing colored honeycomb*/
   transform: rotate(120deg);
